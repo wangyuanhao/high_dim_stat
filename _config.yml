@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "China"
-title                    : "High-dimensional Data Analysis/高维数据分析"
+title                    : "High-Dimensional Data Analysis/高维数据分析"
 title_separator          : "-"
 name                     : &name "Weiwen Wang"
 description              : &description "personal description"
