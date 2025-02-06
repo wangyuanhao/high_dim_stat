@@ -29,10 +29,9 @@ redirect_from:
     * <span style="font-family: 'Times', sans-serif;">Monte-Carlo method for integration</span>
     * <span style="font-family: 'Times', sans-serif;">High-dimensional balls</span>
 * <span style="font-family: 'Times', sans-serif;">Lecture 2 [notes] </span>
-  * <span style="font-family: 'Times', sans-serif;">Approximated Caratheodory's theorem</span>
-  * <span style="font-family: 'Times', sans-serif;">Reivew of large sample laws, Markov inequality and Chebyshev's inequality</span>
+  * <span style="font-family: 'Times', sans-serif;">Approximated Caratheodory's theorem and its applications </span>
 * <span style="font-family: 'Times', sans-serif;">Lecture 3 [notes] </span>
-  * <span style="font-family: 'Times', sans-serif;">Approximated Caratheodory's theorem and its applications</span>
+  * <span style="font-family: 'Times', sans-serif;">Reivew of large sample laws, Markov inequality and Chebyshev's inequality</span>
   * <span style="font-family: 'Times', sans-serif;">Concentration inequalties: Gaussian tail bounds</span>
 * <span style="font-family: 'Times', sans-serif;">Lecture 4 [notes] </span>
   * <span style="font-family: 'Times', sans-serif;">Chernoff trick</span>
