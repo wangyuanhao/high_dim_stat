@@ -57,8 +57,14 @@ redirect_from:
   * <span style="font-family: 'Times', sans-serif;">Rademacher complexity in emprical risk minization</span>
   * <span style="font-family: 'Times', sans-serif;">Margin theory</span>
 * <span style="font-family: 'Times', sans-serif;">Lecture 9 [notes] </span>
-  * <span style="font-family: 'Times', sans-serif;">Rademacher complexity in emprical risk minization</span>
-  * <span style="font-family: 'Times', sans-serif;">Margin theory</span>
+  * <span style="font-family: 'Times', sans-serif;">Gaussian complexity and Rademacher complextiy</span>
+  * <span style="font-family: 'Times', sans-serif;">Covering number and packing number</span>
+* <span style="font-family: 'Times', sans-serif;">Lecture 10 [notes] </span>
+  * <span style="font-family: 'Times', sans-serif;">Random process</span>
+  * <span style="font-family: 'Times', sans-serif;">Dudley's integral inequality and its applications</span>
+* <span style="font-family: 'Times', sans-serif;">Lecture 11 [notes] </span>
+  * <span style="font-family: 'Times', sans-serif;">Random process</span>
+  * <span style="font-family: 'Times', sans-serif;">Dudley's integral inequality and its applications</span>
 
 
 ## <span style="font-family: 'Times', sans-serif;">History</span>
