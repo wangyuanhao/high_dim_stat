@@ -15,7 +15,7 @@ redirect_from:
 1. <span style="font-family: 'Times', sans-serif;">Vershynin, R. *High-Dimensional Probability:An Introduction with Applications in Data Science*. Cambridge University Press, Cambridge, 2018.</span>
 2. <span style="font-family: 'Times', sans-serif;">Wainwright, M.J. *High-Dimensional Statistics: An Non-Asymptotic Viewpoint*. Cambridge University Press, Cambridge, 2019.</span>
 3. <span style="font-family: 'Times', sans-serif;">Wright, J. & Ma, Y. *High-Dimensional Data Analysis with Low-Dimensional Models*. Cambridge University Press, Cambridge, 2022.</span>
-4. <span style="font-family: 'Times', sans-serif;">Mohri, M., Rostamizadeh, A. and Talwalkar, A. *Foundations of Machine Learning*. 2nd Edition,  The MIT, Press, Cambridge, 2018.</span>
+4. <span style="font-family: 'Times', sans-serif;">Mohri, M., Rostamizadeh, A. and Talwalkar, A. *Foundations of Machine Learning*. 2nd Edition,  The MIT Press, 2018.</span>
 
 <span style="font-family: 'Times', sans-serif;">The lecture notes are heavily based on Ref. 1 and Ref. 2. </span>
 
