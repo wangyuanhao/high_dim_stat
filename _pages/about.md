@@ -23,8 +23,7 @@ redirect_from:
 
 <span style="font-family: 'Times', sans-serif;">Lecture notes and homework are released from time to time. There might be typos in the released notes.</span>
 
-* <span style="font-family: 'Times', sans-serif;">Lecture 1 [notes] </span>
-  * <span style="font-family: 'Times', sans-serif;">Reivew of machine learning paradigms</span>
+* <span style="font-family: 'Times', sans-serif;">Lecture 1 [[notes](../notes/lecture1.pdf)] </span>
   * <span style="font-family: 'Times', sans-serif;">Unexpected behavior of high-dimensional spaces</span>
     * <span style="font-family: 'Times', sans-serif;">Monte-Carlo method for integration</span>
     * <span style="font-family: 'Times', sans-serif;">High-dimensional balls</span>
