@@ -17,16 +17,22 @@ redirect_from:
 3. <span style="font-family: 'Times', sans-serif;">Wright, J. & Ma, Y. *High-Dimensional Data Analysis with Low-Dimensional Models*. Cambridge University Press, Cambridge, 2022.</span>
 4. <span style="font-family: 'Times', sans-serif;">Mohri, M., Rostamizadeh, A. and Talwalkar, A. *Foundations of Machine Learning*. 2nd Edition,  The MIT Press, 2018.</span>
 
-<span style="font-family: 'Times', sans-serif;">The lecture notes are heavily based on Ref. 1 and Ref. 2. </span>
+<span style="font-family: 'Times', sans-serif;">The lecture notes are heavily based on Ref. 1, Ref. 2. and the video course taught by Roman Vershynin (https://www.math.uci.edu/~rvershyn/teaching/hdp/hdp.html)</span>
+
+<span style="color: rgba(211, 23, 23, 0.88); font-family: 'Times', sans-serif;">ALL THE MATERIALS ARE INTENDED FOR NON-PROFIT ACADEMIC USE. IF THEY ARE PRESENTED IMPROPERLY, PLEASE EMAIL ME TO REQUEST REMOVAL.</span>
 
 ## <span style="font-family: 'Times', sans-serif;">Syllabus</span>
 
 <span style="font-family: 'Times', sans-serif;">Lecture notes and homework are released from time to time. There might be typos in the released notes.</span>
 
 * <span style="font-family: 'Times', sans-serif;">Lecture 1 [[notes](../notes/lecture1.pdf)] </span>
-  * <span style="font-family: 'Times', sans-serif;">Unexpected behavior of high-dimensional spaces</span>
-    * <span style="font-family: 'Times', sans-serif;">Monte-Carlo method for integration</span>
-    * <span style="font-family: 'Times', sans-serif;">High-dimensional balls</span>
+  * <span style="font-family: 'Times', sans-serif;">Introductory</span>
+    * <span style="font-family: 'Times', sans-serif;">Counter-intuition of high-dimensional data</span>
+    * <span style="font-family: 'Times', sans-serif;">Non-asymptotic anaysis</span>
+    * <span style="font-family: 'Times', sans-serif;">Goals of this course</span>
+    * <span style="font-family: 'Times', sans-serif;">Review of expecation and variance</span>
+    * <span style="font-family: 'Times', sans-serif;">Some classical inequalities</span>
+    * <span style="font-family: 'Times', sans-serif;">Monte-Carlo method for integration in high-dimensional space</span>
 * <span style="font-family: 'Times', sans-serif;">Lecture 2 [notes] </span>
   * <span style="font-family: 'Times', sans-serif;">Approximated Caratheodory's theorem and its applications </span>
 * <span style="font-family: 'Times', sans-serif;">Lecture 3 [notes] </span>
