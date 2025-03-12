@@ -13,7 +13,7 @@ redirect_from:
 ## <span style="font-family: 'Times', sans-serif;">Reference</span>
 
 1. <span style="font-family: 'Times', sans-serif;">Vershynin, R. *High-Dimensional Probability:An Introduction with Applications in Data Science*. Cambridge University Press, Cambridge, 2018.</span>
-2. <span style="font-family: 'Times', sans-serif;">Wainwright, M.J. *High-Dimensional Statistics: An Non-Asymptotic Viewpoint*. Cambridge University Press, Cambridge, 2019.</span>
+2. <span style="font-family: 'Times', sans-serif;">Wainwright, M.J. *High-Dimensional Statistics: A Non-Asymptotic Viewpoint*. Cambridge University Press, Cambridge, 2019.</span>
 3. <span style="font-family: 'Times', sans-serif;">Wright, J. & Ma, Y. *High-Dimensional Data Analysis with Low-Dimensional Models*. Cambridge University Press, Cambridge, 2022.</span>
 4. <span style="font-family: 'Times', sans-serif;">Mohri, M., Rostamizadeh, A. and Talwalkar, A. *Foundations of Machine Learning*. 2nd Edition,  The MIT Press, 2018.</span>
 
@@ -33,7 +33,7 @@ redirect_from:
     * <span style="font-family: 'Times', sans-serif;">Review of expecation and variance</span>
     * <span style="font-family: 'Times', sans-serif;">Some classical inequalities</span>
     * <span style="font-family: 'Times', sans-serif;">Monte-Carlo method for integration in high-dimensional space</span>
-* <span style="font-family: 'Times', sans-serif;">Lecture 2 [notes] </span>
+* <span style="font-family: 'Times', sans-serif;">Lecture 2 [[notes](../notes/lecture2.pdf)] </span>
   * <span style="font-family: 'Times', sans-serif;">Approximated Caratheodory's theorem and its applications </span>
 * <span style="font-family: 'Times', sans-serif;">Lecture 3 [notes] </span>
   * <span style="font-family: 'Times', sans-serif;">Reivew of large sample laws, Markov inequality and Chebyshev's inequality</span>
