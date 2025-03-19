@@ -33,7 +33,7 @@ redirect_from:
     * <span style="font-family: 'Times', sans-serif;">Review of expecation and variance</span>
     * <span style="font-family: 'Times', sans-serif;">Some classical inequalities</span>
     * <span style="font-family: 'Times', sans-serif;">Monte-Carlo method for integration in high-dimensional space</span>
-* <span style="font-family: 'Times', sans-serif;">Lecture 2 [[notes](../notes/lecture2.pdf)] </span>
+* <span style="font-family: 'Times', sans-serif;">Lecture 2 [[notes](../notes/lecture2.pdf)] [[Eigenface](../codes/eigenface.ipynb)]</span>
   * <span style="font-family: 'Times', sans-serif;">Approximated Caratheodory's theorem and its applications </span>
 * <span style="font-family: 'Times', sans-serif;">Lecture 3 [[notes](../notes/lecture3.pdf)] </span>
   * <span style="font-family: 'Times', sans-serif;">Reivew of large sample laws, Markov inequality and Chebyshev's inequality</span>
