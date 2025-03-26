@@ -38,10 +38,11 @@ redirect_from:
 * <span style="font-family: 'Times', sans-serif;">Lecture 3 [[notes](../notes/lecture3.pdf)] </span>
   * <span style="font-family: 'Times', sans-serif;">Reivew of large sample laws, Markov inequality and Chebyshev's inequality</span>
   * <span style="font-family: 'Times', sans-serif;">Concentration inequalties: Gaussian tail bounds</span>
-* <span style="font-family: 'Times', sans-serif;">Lecture 4 [notes] </span>
+* <span style="font-family: 'Times', sans-serif;">Lecture 4 [[notes](../notes/lecture4.pdf)]  </span>
   * <span style="font-family: 'Times', sans-serif;">Chernoff trick</span>
   * <span style="font-family: 'Times', sans-serif;">Sub-Gaussian variables</span>
   * <span style="font-family: 'Times', sans-serif;">Hoeffding bound</span>
+  * <span style="font-family: 'Times', sans-serif;">Chernoff bound and its application</span>
 * <span style="font-family: 'Times', sans-serif;">Lecture 5 [notes] </span>
   * <span style="font-family: 'Times', sans-serif;">Sub-exponetial variables</span>
   * <span style="font-family: 'Times', sans-serif;">Bernstein-type bound</span>
