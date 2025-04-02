@@ -35,10 +35,10 @@ redirect_from:
     * <span style="font-family: 'Times', sans-serif;">Monte-Carlo method for integration in high-dimensional space</span>
 * <span style="font-family: 'Times', sans-serif;">Lecture 2 [[notes](../notes/lecture2.pdf)] [[Eigenface](../codes/eigenface.ipynb)]</span>
   * <span style="font-family: 'Times', sans-serif;">Approximated Caratheodory's theorem and its applications </span>
-* <span style="font-family: 'Times', sans-serif;">Lecture 3 [[notes](../notes/lecture3.pdf)] [[Erdos-Reyi Model](../codes/erdos_reyi_model.ipynb)]</span>
+* <span style="font-family: 'Times', sans-serif;">Lecture 3 [[notes](../notes/lecture3.pdf)] </span>
   * <span style="font-family: 'Times', sans-serif;">Reivew of large sample laws, Markov inequality and Chebyshev's inequality</span>
   * <span style="font-family: 'Times', sans-serif;">Concentration inequalties: Gaussian tail bounds</span>
-* <span style="font-family: 'Times', sans-serif;">Lecture 4 [[notes](../notes/lecture4.pdf)]  </span>
+* <span style="font-family: 'Times', sans-serif;">Lecture 4 [[notes](../notes/lecture4.pdf)][[Erdos-Reyi Model](../codes/erdos_reyi_model.ipynb)]  </span>
   * <span style="font-family: 'Times', sans-serif;">Chernoff trick</span>
   * <span style="font-family: 'Times', sans-serif;">Sub-Gaussian variables</span>
   * <span style="font-family: 'Times', sans-serif;">Hoeffding bound</span>
