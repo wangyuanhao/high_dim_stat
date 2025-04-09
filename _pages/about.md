@@ -43,7 +43,7 @@ redirect_from:
   * <span style="font-family: 'Times', sans-serif;">Sub-Gaussian variables</span>
   * <span style="font-family: 'Times', sans-serif;">Hoeffding bound</span>
   * <span style="font-family: 'Times', sans-serif;">Chernoff bound and its application</span>
-* <span style="font-family: 'Times', sans-serif;">Lecture 5 [notes] </span>
+* <span style="font-family: 'Times', sans-serif;">Lecture 5 [[notes](../notes/lecture5.pdf)] </span>
   * <span style="font-family: 'Times', sans-serif;">Sub-exponetial variables</span>
   * <span style="font-family: 'Times', sans-serif;">Bernstein-type bound</span>
   * <span style="font-family: 'Times', sans-serif;">Johnson-Lindenstrauss embedding</span>
