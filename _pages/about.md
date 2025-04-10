@@ -38,12 +38,12 @@ redirect_from:
 * <span style="font-family: 'Times', sans-serif;">Lecture 3 [[notes](../notes/lecture3.pdf)] </span>
   * <span style="font-family: 'Times', sans-serif;">Reivew of large sample laws, Markov inequality and Chebyshev's inequality</span>
   * <span style="font-family: 'Times', sans-serif;">Concentration inequalties: Gaussian tail bounds</span>
-* <span style="font-family: 'Times', sans-serif;">Lecture 4 [[notes](../notes/lecture4.pdf)][[Erdos-Reyi Model](../codes/erdos_reyi_model.ipynb)]  </span>
+* <span style="font-family: 'Times', sans-serif;">Lecture 4 [[notes](../notes/lecture4.pdf)] [[Erdos-Renyi Model](../codes/erdos_reyi_model.ipynb)] [[video recording](https://www.bilibili.com/video/BV1ikd3YuECM/?spm_id_from=333.1365.list.card_archive.click)] </span>
   * <span style="font-family: 'Times', sans-serif;">Chernoff trick</span>
   * <span style="font-family: 'Times', sans-serif;">Sub-Gaussian variables</span>
   * <span style="font-family: 'Times', sans-serif;">Hoeffding bound</span>
   * <span style="font-family: 'Times', sans-serif;">Chernoff bound and its application</span>
-* <span style="font-family: 'Times', sans-serif;">Lecture 5 [[notes](../notes/lecture5.pdf)][[Manifold Learning](https://scikit-learn.org/stable/modules/manifold.html)] </span>
+* <span style="font-family: 'Times', sans-serif;">Lecture 5 [[notes](../notes/lecture5.pdf)] [[Manifold Learning](https://scikit-learn.org/stable/modules/manifold.html)] </span>
   * <span style="font-family: 'Times', sans-serif;">Sub-exponetial variables</span>
   * <span style="font-family: 'Times', sans-serif;">Bernstein-type bound</span>
   * <span style="font-family: 'Times', sans-serif;">Johnson-Lindenstrauss embedding</span>
