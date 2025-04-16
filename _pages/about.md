@@ -47,7 +47,7 @@ redirect_from:
   * <span style="font-family: 'Times', sans-serif;">Sub-exponetial variables</span>
   * <span style="font-family: 'Times', sans-serif;">Bernstein-type bound</span>
   * <span style="font-family: 'Times', sans-serif;">Johnson-Lindenstrauss embedding</span>
-* <span style="font-family: 'Times', sans-serif;">Lecture 6 [notes] </span>
+* <span style="font-family: 'Times', sans-serif;">Lecture 6 [notes] [[notes](../notes/lecture6.pdf)]  </span> 
   * <span style="font-family: 'Times', sans-serif;">Bounded differences inequality</span>
   * <span style="font-family: 'Times', sans-serif;">Clique number in random graphs, Rademacher complexity and Gaussian complextiy</span>
   * <span style="font-family: 'Times', sans-serif;">Lipschitz functions of Gaussian variables with applications</span>
