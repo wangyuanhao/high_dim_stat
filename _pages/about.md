@@ -47,6 +47,9 @@ redirect_from:
   * <span style="font-family: 'Times', sans-serif;">Sub-exponetial variables</span>
   * <span style="font-family: 'Times', sans-serif;">Bernstein-type bound</span>
   * <span style="font-family: 'Times', sans-serif;">Johnson-Lindenstrauss embedding</span>
+    * <span style="font-family: 'Times', sans-serif;">Reading </span>
+      * <span style="font-family: 'Times', sans-serif;">[Martin Zinkevich, "Rules of Machine Learning: Best Practices for ML Engineering"](https://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)</span>
+      * <span style="font-family: 'Times', sans-serif;">[Machine Learning Checklist](https://machinelearningmastery.com/machine-learning-checklist/)</span>
 * <span style="font-family: 'Times', sans-serif;">Lecture 6 [[notes](../notes/lecture6.pdf)]  </span> 
   * <span style="font-family: 'Times', sans-serif;">Bounded differences inequality</span>
   * <span style="font-family: 'Times', sans-serif;">Clique number in random graphs, Rademacher complexity and Gaussian complextiy</span>
