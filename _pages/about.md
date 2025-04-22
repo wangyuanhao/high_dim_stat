@@ -56,7 +56,7 @@ redirect_from:
   * <span style="font-family: 'Times', sans-serif;">Lipschitz functions of Gaussian variables with applications</span>
     * <span style="font-family: 'Times', sans-serif;">$\chi^{2}$-concentration</span>
     * <span style="font-family: 'Times', sans-serif;">Gaussian chaos variables</span>
-* <span style="font-family: 'Times', sans-serif;">Lecture 7 [notes] </span>
+* <span style="font-family: 'Times', sans-serif;">Lecture 7 [[notes](../notes/lecture7.pdf)] </span>
   * <span style="font-family: 'Times', sans-serif;">Unifrom laws of large numbers</span>
     * <span style="font-family: 'Times', sans-serif;">Glivenko-Cantelli theorem</span>
     * <span style="font-family: 'Times', sans-serif;">A uniform law via Rademacher complexity</span>
