@@ -63,10 +63,7 @@ redirect_from:
 * <span style="font-family: 'Times', sans-serif;">Lecture 8 [[notes](../notes/lecture8.pdf)] </span>
   * <span style="font-family: 'Times', sans-serif;">Upper bounds of Rademacher Complexity</span>
   *  <span style="font-family: 'Times', sans-serif;">Vapnik-Chernonenkis dimension</span>
-* <span style="font-family: 'Times', sans-serif;">Lecture 9-0 [notes] </span>
-  * <span style="font-family: 'Times', sans-serif;">Generalization errors in empirical risk minimization</span>
-  * <span style="font-family: 'Times', sans-serif;">Margin theory</span>
-* <span style="font-family: 'Times', sans-serif;">Lecture 9-1 [notes] </span>
+* <span style="font-family: 'Times', sans-serif;">Lecture 9  [[notes](../notes/lecture9.pdf)]  </span>
   * <span style="font-family: 'Times', sans-serif;">Gaussian complexity and Rademacher complextiy</span>
   * <span style="font-family: 'Times', sans-serif;">Covering number and packing number</span>
 * <span style="font-family: 'Times', sans-serif;">Lecture 10 [notes] </span>
