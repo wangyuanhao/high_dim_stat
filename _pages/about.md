@@ -66,8 +66,9 @@ redirect_from:
 * <span style="font-family: 'Times', sans-serif;">Lecture 9  [[notes](../notes/lecture9.pdf)]  </span>
   * <span style="font-family: 'Times', sans-serif;">Gaussian complexity and Rademacher complextiy</span>
   * <span style="font-family: 'Times', sans-serif;">Covering number and packing number</span>
-* <span style="font-family: 'Times', sans-serif;">Lecture 10 [notes] </span>
-  * <span style="font-family: 'Times', sans-serif;">Random process</span>
+* <span style="font-family: 'Times', sans-serif;">Lecture 10  [[notes](../notes/lecture10.pdf)]</span>
+  * <span style="font-family: 'Times', sans-serif;">sub-Gaussian process</span>
+  * <span style="font-family: 'Times', sans-serif;">One-step discretization</span>
   * <span style="font-family: 'Times', sans-serif;">Dudley's integral inequality and its applications</span>
 * <span style="font-family: 'Times', sans-serif;">Lecture 11 [notes] </span>
   * <span style="font-family: 'Times', sans-serif;">Random process</span>
