@@ -79,13 +79,12 @@ redirect_from:
 * <span style="font-family: 'Times', sans-serif;">Lecture 12  [[notes](../notes/lecture12.pdf)]  </span>
   * <span style="font-family: 'Times', sans-serif;">Matrix caculus</span>
   * <span style="font-family: 'Times', sans-serif;">Matrix Hoeffding inequality</span>
+  * <span style="font-family: 'Times', sans-serif;">Matrix Bernstein inequality and its application in covariance estimation</span>
 * <span style="font-family: 'Times', sans-serif;">Lecture 13 [notes] </span>
-  * <span style="font-family: 'Times', sans-serif;">Matrix Bernstein inequality and its application in community detection</span>
-* <span style="font-family: 'Times', sans-serif;">Lecture 14 [notes] </span>
   * <span style="font-family: 'Times', sans-serif;">Covariance estimation</span>
   * <span style="font-family: 'Times', sans-serif;">Semicircle law</span>
   * <span style="font-family: 'Times', sans-serif;">Marchenko-Pastur law</span>
-* <span style="font-family: 'Times', sans-serif;">Lecture 15 [notes] </span>
+* <span style="font-family: 'Times', sans-serif;">Lecture 14 [notes] </span>
   * <span style="font-family: 'Times', sans-serif;">Introduction to deep generative models</span>
     * <span style="font-family: 'Times', sans-serif;">GAN</span>
     * <span style="font-family: 'Times', sans-serif;">VAE</span>
