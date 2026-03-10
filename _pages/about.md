@@ -101,15 +101,15 @@ Lecture notes will be updated from time to time. There might be typos in the rel
 
 Homework will be released from time to time.
 
-| Date       | Assignment | Remark |
-| ---------- | ---------- | ------ |
-| 2026-03-09 |            |        |
-|            |            |        |
-|            |            |        |
-|            |            |        |
-|            |            |        |
-|            |            |        |
-|            |            |        |
-|            |            |        |
-|            |            |        |
+| Date       | Assignment                                                   | Remark |
+| ---------- | ------------------------------------------------------------ | ------ |
+| 2026-03-09 | Reading: The **Introduction** in  https://web.math.princeton.edu/~rvan/APC550.pdf |        |
+|            |                                                              |        |
+|            |                                                              |        |
+|            |                                                              |        |
+|            |                                                              |        |
+|            |                                                              |        |
+|            |                                                              |        |
+|            |                                                              |        |
+|            |                                                              |        |
 
