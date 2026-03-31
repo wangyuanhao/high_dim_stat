@@ -104,7 +104,7 @@ Homework will be released from time to time.
 | Date       | Assignment                                                   | Remark |
 | ---------- | ------------------------------------------------------------ | ------ |
 | 2026-03-09 | Reading: The **Introduction** in  https://web.math.princeton.edu/~rvan/APC550.pdf |        |
-|            |                                                              |        |
+| 2026-03-31 | Reading: Chapter 3.1 of Foundations of Machine Learning, 2ed. https://cs.nyu.edu/~mohri/mlbook/ |        |
 |            |                                                              |        |
 |            |                                                              |        |
 |            |                                                              |        |
