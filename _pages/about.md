@@ -87,8 +87,8 @@ Lecture notes will be updated from time to time. There might be typos in the rel
   * Matrix caculus
   * Matrix Hoeffding inequality
   * Matrix Bernstein inequality and its application in covariance estimation
-* Lecture 13 [notes] 
-  * Covariance estimation
+* Lecture 13 
+  * Covariance estimation [[notes](../notes/supp1.pdf)]
   * Semicircle law
   * Marchenko-Pastur law
 * Lecture 14 [notes] 
