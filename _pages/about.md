@@ -92,10 +92,8 @@ Lecture notes will be updated from time to time. There might be typos in the rel
   * Semicircle law
   * Marchenko-Pastur law
 * Lecture 14 [notes] 
-  * Introduction to deep generative models
-    * GAN
-    * VAE
-    * Diffusion models
+  * Linear Model  [[notes](../notes/supp2.pdf)]
+  
 
 ## Homework
 
